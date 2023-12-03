@@ -1,3 +1,3 @@
 ## How to Use Kubernetes Annotations?
 Annotations are key-value pairs that are used to attach non-identifying metadata to Kubernetes objects. Various tools that are built over Kubernetes use this metadata attached by annotations to perform actions or enhance resource management. Labels and Annotations are used to attach metadata to Kubernetes objects. This makes annotations important for working with Kubernetes clusters. To learn more about Kubernetes cluster and its architecture refer to Kubernetes – Architecture...
-(Read More)[https://www.geeksforgeeks.org/how-to-use-kubernetes-annotations/]
+[Read More](https://www.geeksforgeeks.org/how-to-use-kubernetes-annotations/)
