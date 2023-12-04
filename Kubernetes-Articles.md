@@ -13,3 +13,7 @@ Minikube is a one-node Kubernetes cluster where master processes and work proces
 ## DevOps Best Practices for Kubernetes
 DevOps is the hot topic in the market these days. DevOps is a vague term used for wide number of operations, most agreeable defination of DevOps would be that DevOps is an intersection of development and operations. Certain practices need to be followed during the application release process in DevOps for a more streamline workflow, continuous delivery and continuous integration of the code and proper scaling for the application. In this article we will discuss the best DevOps practice you must know as a DevOps engineer/ DevOps enthusiast for Kubernetes in 2023...
 ### [Read More](https://www.geeksforgeeks.org/devops-best-practices-for-kubernetes/)
+
+## What Is Containerd?
+Containerd in simple terms is a container runtime that is, Containerd is a software responsible for running and managing containers on a host system. It is a resource manager which manages the container processes, image, snapshots, container metadata and its dependencies. Going further, Containerd is a daemon for Linux and Windows, that manages the complete container life cycle of its host system from image transfer and storage to container execution and supervision and beyond. So basically Containerd is a complete package for the container lifecycle.
+### [Read More](https://www.geeksforgeeks.org/what-is-containerd/)
