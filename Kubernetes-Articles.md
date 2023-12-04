@@ -9,3 +9,7 @@ StatefulSets are Kubernetes components that are used specifically for deploying 
 ## Kubernetes Minikube
 Minikube is a one-node Kubernetes cluster where master processes and work processes both run on one node. According to the official documentation of Minikube, Minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes. A prerequisite to use Minikube is a Docker container or a Virtual Machine environment. Minikube provides you a way to easily deploy application on Kubernetes for learning and developing purposes even if you don’t have enough resources like memory, CPU etc...
 ### [Read More](https://www.geeksforgeeks.org/kubernetes-minikube/)
+
+## DevOps Best Practices for Kubernetes
+DevOps is the hot topic in the market these days. DevOps is a vague term used for wide number of operations, most agreeable defination of DevOps would be that DevOps is an intersection of development and operations. Certain practices need to be followed during the application release process in DevOps for a more streamline workflow, continuous delivery and continuous integration of the code and proper scaling for the application. In this article we will discuss the best DevOps practice you must know as a DevOps engineer/ DevOps enthusiast for Kubernetes in 2023...
+### [Read More](https://www.geeksforgeeks.org/devops-best-practices-for-kubernetes/)
