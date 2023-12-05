@@ -17,3 +17,10 @@ DevOps is the hot topic in the market these days. DevOps is a vague term used fo
 ## What Is Containerd?
 Containerd in simple terms is a container runtime that is, Containerd is a software responsible for running and managing containers on a host system. It is a resource manager which manages the container processes, image, snapshots, container metadata and its dependencies. Going further, Containerd is a daemon for Linux and Windows, that manages the complete container life cycle of its host system from image transfer and storage to container execution and supervision and beyond. So basically Containerd is a complete package for the container lifecycle.
 ### [Read More](https://www.geeksforgeeks.org/what-is-containerd/)
+
+## How to Use Kubernetes Statefulsets?
+StatefulSets are API objects in Kubernetes that are used to manage stateful applications. There are two types of applications in Kubernetes, Stateful applications and stateless applications. There are two ways to deploy these applications:
+1. Deployment (for stateless applications)
+2. StatefulSets (for stateful applications)
+### [Read More]([https://www.geeksforgeeks.org/what-is-containerd/](https://www.geeksforgeeks.org/how-to-use-kubernetes-annotations/))
+
