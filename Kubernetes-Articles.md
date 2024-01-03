@@ -27,3 +27,11 @@ StatefulSets are API objects in Kubernetes that are used to manage stateful appl
 ## How to Use Kubernetes Annotations?
 Annotations are key-value pairs that are used to attach non-identifying metadata to Kubernetes objects. Various tools that are built over Kubernetes use this metadata attached by annotations to perform actions or enhance resource management. Labels and Annotations are used to attach metadata to Kubernetes objects. This makes annotations important for working with Kubernetes clusters. To learn more about Kubernetes cluster and its architecture refer to Kubernetes – Architecture...
 ### [Read More](https://www.geeksforgeeks.org/how-to-use-kubernetes-annotations/)
+
+## Benefits and Characteristics of Kubernetes Namespaces
+In Kubernetes, Namespaces are used to organize resources. You can have multiple Namespaces in a Cluster And these Namespaces are kind of virtual Clusters of their own. The official definition of Namespace says “In Kubernetes, namespaces provide a mechanism for isolating groups of resources within a single cluster”. Within a Kubernetes Namespace, resources must have unique names, but across different Namespaces, you can have resources with the same name...
+### [Read More](https://www.geeksforgeeks.org/benefits-and-characteristics-of-kubernetes-namespaces/)
+
+
+
+
