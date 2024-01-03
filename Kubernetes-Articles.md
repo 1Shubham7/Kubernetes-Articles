@@ -32,6 +32,8 @@ Annotations are key-value pairs that are used to attach non-identifying metadata
 In Kubernetes, Namespaces are used to organize resources. You can have multiple Namespaces in a Cluster And these Namespaces are kind of virtual Clusters of their own. The official definition of Namespace says “In Kubernetes, namespaces provide a mechanism for isolating groups of resources within a single cluster”. Within a Kubernetes Namespace, resources must have unique names, but across different Namespaces, you can have resources with the same name...
 ### [Read More](https://www.geeksforgeeks.org/benefits-and-characteristics-of-kubernetes-namespaces/)
 
-
+## Types of Service in Kubernetes
+In this article, we will discuss the different types of Services in Kubernetes. Along with these three Services, we will also discuss Headless Service which is a very important Service through which clients can directly communicate with the Pods....
+### [Read More]([https://www.geeksforgeeks.org/benefits-and-characteristics-of-kubernetes-namespaces/](https://www.geeksforgeeks.org/types-of-service-in-kubernetes/)https://www.geeksforgeeks.org/types-of-service-in-kubernetes/)
 
 
