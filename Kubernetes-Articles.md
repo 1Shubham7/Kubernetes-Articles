@@ -34,6 +34,9 @@ In Kubernetes, Namespaces are used to organize resources. You can have multiple 
 
 ## Types of Service in Kubernetes
 In this article, we will discuss the different types of Services in Kubernetes. Along with these three Services, we will also discuss Headless Service which is a very important Service through which clients can directly communicate with the Pods....
-### [Read More]([https://www.geeksforgeeks.org/benefits-and-characteristics-of-kubernetes-namespaces/](https://www.geeksforgeeks.org/types-of-service-in-kubernetes/)https://www.geeksforgeeks.org/types-of-service-in-kubernetes/)
+### [Read More](https://www.geeksforgeeks.org/types-of-service-in-kubernetes/)
 
+## Kubernetes Configuration File – Step by Step Tutorial
+Kubernetes Configuration File is the main tool for creating and configuring components in Kubernetes. Components in a Kubernetes cluster can be created in two ways – either by giving commands to the CLI or by creating a configuration file. The advantage of having a Configuration file is that it’s simpler, less confusing, and crucial for automating tasks...
+### [Read More](https://www.geeksforgeeks.org/kubernetes-configuration-file-step-by-step-tutorial/)
 
