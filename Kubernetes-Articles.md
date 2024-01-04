@@ -1,4 +1,4 @@
-## How to Use Kubernetes Annotations?
+![image](https://github.com/1Shubham7/Kubernetes-Articles/assets/116020663/1fff6833-ad04-460e-8b23-c5fd01764843)## How to Use Kubernetes Annotations?
 Annotations are key-value pairs that are used to attach non-identifying metadata to Kubernetes objects. Various tools that are built over Kubernetes use this metadata attached by annotations to perform actions or enhance resource management. Labels and Annotations are used to attach metadata to Kubernetes objects. This makes annotations important for working with Kubernetes clusters. To learn more about Kubernetes cluster and its architecture refer to Kubernetes – Architecture...
 ### [Read More](https://www.geeksforgeeks.org/how-to-use-kubernetes-annotations/)
 
@@ -40,3 +40,7 @@ In this article, we will discuss the different types of Services in Kubernetes. 
 Kubernetes Configuration File is the main tool for creating and configuring components in Kubernetes. Components in a Kubernetes cluster can be created in two ways – either by giving commands to the CLI or by creating a configuration file. The advantage of having a Configuration file is that it’s simpler, less confusing, and crucial for automating tasks...
 ### [Read More](https://www.geeksforgeeks.org/kubernetes-configuration-file-step-by-step-tutorial/)
 
+## Fundamental Kubernetes Components and their role in Container Orchestration
+Kubernetes or K8s is an open-sourced container orchestration technology that is used for automating the manual processes of deploying, managing and scaling applications by the help of containers. Kubernetes was originally developed by engineers at Google and In 2015, it was donated to CNCF (Cloud Native Computing Foundation)
+To understand Kubernetes, one must understand its basic components and its building blocks. In this article, we will be discussing the most fundamental components of Kubernetes as well as what are they used for...
+### [Read More](https://www.geeksforgeeks.org/fundamental-kubernetes-components-and-their-role-in-container-orchestration/)
