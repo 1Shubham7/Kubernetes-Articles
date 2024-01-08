@@ -48,3 +48,8 @@ To understand Kubernetes, one must understand its basic components and its build
 ## Evolution of Virtualization in Cloud Computing
 The applications of this day and age are running on cloud, but do you wonder how these applications used to be deployed before the advent of cloud technologies? Containers are the new norm for various companies irrespective of their domain and the work they do, but there has been an evolution from deploying applications in just the hardware itself towards containers and container technologies. Evolution of virtualization brought us from running applications directly in simple hardware systems to the world of virtual machines and containers...
 ### [Read More](https://www.geeksforgeeks.org/evolution-of-virtualization-in-cloud-computing/)
+
+## Why do we need containers ? Need of containerization and the OCI.
+Docker and containerization have been the base for modern-day applications and DevOps. But do you also wonder why containers exist? and why a product like Docker has been so successful. In this article, we are going to discuss the motivation behind a tool like Docker why the developers felt the need for containers, and the industry-accepted specifications of those containers. We try to understand why containers have become the dominant kind of development and deployment mechanism for software applications today.
+### [Read More](https://www.geeksforgeeks.org/why-do-we-need-containers-need-of-containerization-and-the-oci/)
+
