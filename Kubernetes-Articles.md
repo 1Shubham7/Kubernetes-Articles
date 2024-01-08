@@ -44,3 +44,7 @@ Kubernetes Configuration File is the main tool for creating and configuring comp
 Kubernetes or K8s is an open-sourced container orchestration technology that is used for automating the manual processes of deploying, managing and scaling applications by the help of containers. Kubernetes was originally developed by engineers at Google and In 2015, it was donated to CNCF (Cloud Native Computing Foundation)
 To understand Kubernetes, one must understand its basic components and its building blocks. In this article, we will be discussing the most fundamental components of Kubernetes as well as what are they used for...
 ### [Read More](https://www.geeksforgeeks.org/fundamental-kubernetes-components-and-their-role-in-container-orchestration/)
+
+## Evolution of Virtualization in Cloud Computing
+The applications of this day and age are running on cloud, but do you wonder how these applications used to be deployed before the advent of cloud technologies? Containers are the new norm for various companies irrespective of their domain and the work they do, but there has been an evolution from deploying applications in just the hardware itself towards containers and container technologies. Evolution of virtualization brought us from running applications directly in simple hardware systems to the world of virtual machines and containers...
+### [Read More](https://www.geeksforgeeks.org/evolution-of-virtualization-in-cloud-computing/)
