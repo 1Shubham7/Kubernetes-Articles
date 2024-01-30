@@ -1,6 +1,6 @@
 # Articles
 
-This is the list of all the articles I have written in Kubernetes.
+This is a list of DevOps articles written by me.
 
 ## How to Use Kubernetes Annotations?
 Annotations are key-value pairs that are used to attach non-identifying metadata to Kubernetes objects. Various tools that are built over Kubernetes use this metadata attached by annotations to perform actions or enhance resource management. Labels and Annotations are used to attach metadata to Kubernetes objects. This makes annotations important for working with Kubernetes clusters. To learn more about Kubernetes cluster and its architecture refer to Kubernetes – Architecture...
@@ -57,3 +57,17 @@ The applications of this day and age are running on cloud, but do you wonder how
 Docker and containerization have been the base for modern-day applications and DevOps. But do you also wonder why containers exist? and why a product like Docker has been so successful. In this article, we are going to discuss the motivation behind a tool like Docker why the developers felt the need for containers, and the industry-accepted specifications of those containers. We try to understand why containers have become the dominant kind of development and deployment mechanism for software applications today.
 ### [Read More](https://www.geeksforgeeks.org/why-do-we-need-containers-need-of-containerization-and-the-oci/)
 
+## Docker Swarm: Building a Highly Scalable Cluster
+
+Docker Swarm is one of the most popular container orchestration engines. It is not only used by professional engineers but also by people is their learning phase of how operations work.
+What makes Docker Swarm so popular is the fact that is very lightweight and very simple to understand – you don’t even have to learn a new CLI for Docker Swarm, we can use it with Docker CLI.
+In this article, we will learn about Docker Swarm, its features, and use cases and will also go through a tutorial to create highly scalable clusters in Docker Swarm...
+
+[**Read more**](https://www.geeksforgeeks.org/docker-swarm-building-a-highly-scalable-cluster/)
+
+## Understanding the Docker Desktop Architecture and Linux Building Block for Containers
+
+In this article we are going to do a technology deep dive and start understanding the foundational Linux kernel features that software like Docker is using to make the containers work and
+provide those isolated environments that we all use. then towards the end of this section, we’ll also take a look at the docker system architecture...
+
+[**Read more**](https://www.geeksforgeeks.org/understanding-the-docker-desktop-architecture-and-linux-building-block-for-containers/)
