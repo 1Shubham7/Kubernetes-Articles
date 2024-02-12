@@ -71,3 +71,9 @@ In this article we are going to do a technology deep dive and start understandin
 provide those isolated environments that we all use. then towards the end of this section, we’ll also take a look at the docker system architecture...
 
 [**Read more**](https://www.geeksforgeeks.org/understanding-the-docker-desktop-architecture-and-linux-building-block-for-containers/)
+
+## Kubernetes NameSpace: Complete Guide.
+
+In Kubernetes, Namespaces are used to organize resources. You can have multiple Namespaces in a Cluster And these Namespaces are kind of virtual Clusters of their own. The official definition of Namespace says “In Kubernetes, namespaces provide a mechanism for isolating groups of resources within a single cluster”. Within a Kubernetes Namespace, resources must have unique names, but across different Namespaces, you can have resources with the same name...
+
+[**Read more**](https://www.geeksforgeeks.org/kubernetes-namespace/)
