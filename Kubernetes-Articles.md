@@ -77,3 +77,9 @@ provide those isolated environments that we all use. then towards the end of thi
 In Kubernetes, Namespaces are used to organize resources. You can have multiple Namespaces in a Cluster And these Namespaces are kind of virtual Clusters of their own. The official definition of Namespace says “In Kubernetes, namespaces provide a mechanism for isolating groups of resources within a single cluster”. Within a Kubernetes Namespace, resources must have unique names, but across different Namespaces, you can have resources with the same name...
 
 [**Read more**](https://www.geeksforgeeks.org/kubernetes-namespace/)
+
+## How To Use Kyverno In Kubernetes ?
+
+The name is Kyverno comes from the Greek word Kyverno, which means “to govern”. Kyverno is a Policy Engine designed specifically for Kubernetes that is Kubernetes Native (i.e. it uses Kubernetes resources, patterns, and idioms) and enables the users to manage security and best practices in their Kubernetes Clusters. In this article, we will discuss what Kyverno is and how to use Kyverno to manage Policies in a Kubernetes Cluster...
+
+[**Read more**](https://www.geeksforgeeks.org/how-to-use-kyverno-in-kubernetes/)
