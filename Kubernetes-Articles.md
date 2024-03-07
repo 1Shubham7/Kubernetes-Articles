@@ -83,3 +83,9 @@ In Kubernetes, Namespaces are used to organize resources. You can have multiple 
 The name is Kyverno comes from the Greek word Kyverno, which means “to govern”. Kyverno is a Policy Engine designed specifically for Kubernetes that is Kubernetes Native (i.e. it uses Kubernetes resources, patterns, and idioms) and enables the users to manage security and best practices in their Kubernetes Clusters. In this article, we will discuss what Kyverno is and how to use Kyverno to manage Policies in a Kubernetes Cluster...
 
 [**Read more**](https://www.geeksforgeeks.org/how-to-use-kyverno-in-kubernetes/)
+
+## Kubernetes Prometheus
+
+With modern DevOps becoming more and more complex, monitoring and alerting stakeholders has become even more crucial for any microservice, and Prometheus is a tool to do the same. Prometheus is a completely open-sourced tool created to monitor highly dynamic container environments like Kubernetes, Docker Swarm, etc. However, it can also be used in a traditional non-container infrastructure where you have just bare servers with applications deployed directly on them. In this article, we will learn what prometheus is. We will see why Prometheus is so important in such infrastructure. And what are some of its use cases...
+
+[**Read more**](https://www.geeksforgeeks.org/kubernetes-prometheus/)
