@@ -89,3 +89,9 @@ The name is Kyverno comes from the Greek word Kyverno, which means â€œto governâ
 With modern DevOps becoming more and more complex, monitoring and alerting stakeholders has become even more crucial for any microservice, and Prometheus is a tool to do the same. Prometheus is a completely open-sourced tool created to monitor highly dynamic container environments like Kubernetes, Docker Swarm, etc. However, it can also be used in a traditional non-container infrastructure where you have just bare servers with applications deployed directly on them. In this article, we will learn what prometheus is. We will see why Prometheus is so important in such infrastructure. And what are some of its use cases...
 
 [**Read more**](https://www.geeksforgeeks.org/kubernetes-prometheus/)
+
+## How To Use Kind To Deploy Kubernetes Clusters?
+
+Kind also referred to as Kubernetes in Docker is a popular open-source tool used for running a Kubernetes cluster locally. Kind uses Docker containers as Cluster Nodes making it substantially faster than its alternatives like Minikube or Docker Desktop which uses a Virtual Machine. Kind is commonly used to test Kubernetes clusters on local machines. Kind is useful specifically when the user wants to create a multi-Node cluster since Minikube or Docker Desktop does not provide any such functionality. In this article we will learn about KinD and see how to use KinD for Deploying Kubernetes clusters...
+
+[**Read more**](https://www.geeksforgeeks.org/how-to-use-kind-to-deploy-kubernetes-clusters/)
