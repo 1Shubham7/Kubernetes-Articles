@@ -2,6 +2,10 @@
 
 This is a list of DevOps articles written by me.
 
+##Deploying A Node.js Application In kubernetes
+Kubernetes, or K8s, is an open-sourced container orchestration technology that is used to automate the manual processes of deploying, managing, and scaling applications with the help of containers. Kubernetes was originally developed by engineers at Google, and In 2015, it was donated to CNCF (Cloud Native Computing Foundation). In this tutorial, we will see how we deploy a Node.js application in a Kubernetes cluster.
+### [Read More](https://www.geeksforgeeks.org/deploying-a-node-js-application-in-kubernetes/)
+
 ## How to Use Kubernetes Annotations?
 Annotations are key-value pairs that are used to attach non-identifying metadata to Kubernetes objects. Various tools that are built over Kubernetes use this metadata attached by annotations to perform actions or enhance resource management. Labels and Annotations are used to attach metadata to Kubernetes objects. This makes annotations important for working with Kubernetes clusters. To learn more about Kubernetes cluster and its architecture refer to Kubernetes – Architecture...
 ### [Read More](https://www.geeksforgeeks.org/how-to-use-kubernetes-annotations/)
