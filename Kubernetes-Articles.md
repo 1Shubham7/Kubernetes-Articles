@@ -99,3 +99,9 @@ With modern DevOps becoming more and more complex, monitoring and alerting stake
 Kind also referred to as Kubernetes in Docker is a popular open-source tool used for running a Kubernetes cluster locally. Kind uses Docker containers as Cluster Nodes making it substantially faster than its alternatives like Minikube or Docker Desktop which uses a Virtual Machine. Kind is commonly used to test Kubernetes clusters on local machines. Kind is useful specifically when the user wants to create a multi-Node cluster since Minikube or Docker Desktop does not provide any such functionality. In this article we will learn about KinD and see how to use KinD for Deploying Kubernetes clusters...
 
 [**Read more**](https://www.geeksforgeeks.org/how-to-use-kind-to-deploy-kubernetes-clusters/)
+
+## How To Share Storage Between Containers In Kubernetes ?
+
+Kubernetes, or K8s, is an open-sourced container orchestration technology that is used to automate the manual processes of deploying, managing, and scaling applications by the help of containers. Kubernetes uses a single container per pod, which is great for most stateless applications, but some applications require more than one container to work together and require some way to persist data and share storage between pods. Sharing storage between containers in a Kubernetes cluster can be achieved with the help of Kubernetes volumes. A volume in Kubernetes is a data-storing feature with the help of which we can store persistent data that can be accessed by containers in a Kubernetes pod. In this article, we will discuss how to share storage between containers in a Kubernetes cluster using volumes...
+
+[**Read more**](https://www.geeksforgeeks.org/how-to-share-storage-between-containers-in-kubernetes/)
