@@ -105,3 +105,9 @@ Kind also referred to as Kubernetes in Docker is a popular open-source tool used
 Kubernetes, or K8s, is an open-sourced container orchestration technology that is used to automate the manual processes of deploying, managing, and scaling applications by the help of containers. Kubernetes uses a single container per pod, which is great for most stateless applications, but some applications require more than one container to work together and require some way to persist data and share storage between pods. Sharing storage between containers in a Kubernetes cluster can be achieved with the help of Kubernetes volumes. A volume in Kubernetes is a data-storing feature with the help of which we can store persistent data that can be accessed by containers in a Kubernetes pod. In this article, we will discuss how to share storage between containers in a Kubernetes cluster using volumes...
 
 [**Read more**](https://www.geeksforgeeks.org/how-to-share-storage-between-containers-in-kubernetes/)
+
+## How To Deploy Dashboard UI On A Kubernetes Cluster Locally ?
+
+Docker Desktop is easily the most popular containerization software for developers and teams. But Docker Desktop would not only allow you to play with containers but can enable you to use Kubernetes without downloading any external cluster like Minikube. Docker Desktop is a secure, out-of-the-box containerization software that offers developers a robust, hybrid toolkit to build, share, and run applications anywhere. You can also use Docker Desktop to enable Kubernetes in your local machine and you can have a Kubernetes cluster running in your local machine with just a click of a button. In this article, we will discuss how to deploy Dashboard UI on Kubernetes Cluster locally using Docker Desktop...
+
+[**Read more**](https://www.geeksforgeeks.org/how-to-deploy-dashboard-ui-on-a-kubernetes-cluster-locally/)
