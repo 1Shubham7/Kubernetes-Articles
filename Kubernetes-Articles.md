@@ -36,7 +36,14 @@ Kubernetes, or K8s, is an open-sourced container orchestration technology that i
 
 ## How to Use Kubernetes Annotations?
 Annotations are key-value pairs that are used to attach non-identifying metadata to Kubernetes objects. Various tools that are built over Kubernetes use this metadata attached by annotations to perform actions or enhance resource management. Labels and Annotations are used to attach metadata to Kubernetes objects. This makes annotations important for working with Kubernetes clusters. To learn more about Kubernetes cluster and its architecture refer to Kubernetes – Architecture...
+
 ### [Read More](https://www.geeksforgeeks.org/how-to-use-kubernetes-annotations/)
+
+## Why Kubernetes? Benefits of using Kubernetes
+
+The popularity of container orchestration technologies specially Kubernetes comes from its use cases and the problems that it solves. Kubernetes is the most popular container orchestration and is widely used by Cloud Native Computing Foundation (CNCF), the foundation to which Kubernetes as a project was donated by Google, estimates that about 92% businesses that uses any Container Orchestration tool is using Kubernetes. In this article we are discussing the benefits of Container Orchestration tools especially Kubernetes. We will be discussing the core use cases of Container Orchestration technologies like Scalability, Disaster Recovery, etc. rather than facts like Kubernetes is Open-sourced etc...
+
+### [Read More](https://www.geeksforgeeks.org/why-kubernetes-benefits-of-using-kubernetes/)
 
 ## Kubernetes StatefulSets: Running Stateful Applications in Containers
 StatefulSets are Kubernetes components that are used specifically for deploying stateful applications. In Kubernetes on the basis on methods of deploying. There are two types of applications – Stateful applications and stateless applications. Therefore, There are two ways for deploying an application on Kubernetes – through Deployment (for deploying stateless applications) and through StatefulSets (for deploying stateful applications)...
