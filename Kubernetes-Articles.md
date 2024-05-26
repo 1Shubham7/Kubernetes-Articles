@@ -82,8 +82,16 @@ To understand Kubernetes, one must understand its basic components and its build
 ### [Read More](https://www.geeksforgeeks.org/fundamental-kubernetes-components-and-their-role-in-container-orchestration/)
 
 ## Evolution of Virtualization in Cloud Computing
+
 The applications of this day and age are running on cloud, but do you wonder how these applications used to be deployed before the advent of cloud technologies? Containers are the new norm for various companies irrespective of their domain and the work they do, but there has been an evolution from deploying applications in just the hardware itself towards containers and container technologies. Evolution of virtualization brought us from running applications directly in simple hardware systems to the world of virtual machines and containers...
+
 ### [Read More](https://www.geeksforgeeks.org/evolution-of-virtualization-in-cloud-computing/)
+
+## Docker Compose - How To Execute Multiple Commands?
+
+Docker Compose is an orchestration tool that comes with Docker and enables users to run and manage multi-container applications using a YAML format file. Docker Compose comes pre-installed with Docker and does not require any additional installation or activation. In this article, we will explore what Docker Compose is. and how we can execute multiple commands using Docker Compose...
+
+### [Read More](https://www.geeksforgeeks.org/docker-compose-how-to-execute-multiple-commands/)
 
 ## Why do we need containers ? Need of containerization and the OCI.
 Docker and containerization have been the base for modern-day applications and DevOps. But do you also wonder why containers exist? and why a product like Docker has been so successful. In this article, we are going to discuss the motivation behind a tool like Docker why the developers felt the need for containers, and the industry-accepted specifications of those containers. We try to understand why containers have become the dominant kind of development and deployment mechanism for software applications today.
