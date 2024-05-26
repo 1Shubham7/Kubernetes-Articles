@@ -138,3 +138,9 @@ Kubernetes, or K8s, is an open-sourced container orchestration technology that i
 Docker Desktop is easily the most popular containerization software for developers and teams. But Docker Desktop would not only allow you to play with containers but can enable you to use Kubernetes without downloading any external cluster like Minikube. Docker Desktop is a secure, out-of-the-box containerization software that offers developers a robust, hybrid toolkit to build, share, and run applications anywhere. You can also use Docker Desktop to enable Kubernetes in your local machine and you can have a Kubernetes cluster running in your local machine with just a click of a button. In this article, we will discuss how to deploy Dashboard UI on Kubernetes Cluster locally using Docker Desktop...
 
 [**Read more**](https://www.geeksforgeeks.org/how-to-deploy-dashboard-ui-on-a-kubernetes-cluster-locally/)
+
+## What Is Kubernetes Ingress ?
+
+Ingress is a Kubernetes API object that is used to expose HTTP and HTTPS routes from outside the cluster to services inside the cluster. It provides a single entry point into a cluster hence making it simpler to manage applications and troubleshoot routing issues. In this article, we will discuss what Kubernetes Ingress is. what is an Ingress controller and How does it resolve the routing problem issue? we will guide you on step-by-step implementation of Kubernetes Ingress...
+
+[**Read more**](https://www.geeksforgeeks.org/what-is-kubernetes-ingress/)
