@@ -24,7 +24,8 @@
 20. [**Kubernetes Prometheus**](https://www.geeksforgeeks.org/kubernetes-prometheus/)
 21. [**How To Use Kind To Deploy Kubernetes Clusters?**](https://www.geeksforgeeks.org/how-to-use-kind-to-deploy-kubernetes-clusters/)
 22. [**How To Share Storage Between Containers In Kubernetes?**](https://www.geeksforgeeks.org/how-to-share-storage-between-containers-in-kubernetes/)
-23. [**How To Deploy Dashboard UI On A Kubernetes Cluster Locally?**](https://www.geeksforgeeks.org/how-to-deploy-dashboard-ui-on-a-kubernetes-cluster-locally/)
+23. [**
+24. [**How To Deploy Dashboard UI On A Kubernetes Cluster Locally?**](https://www.geeksforgeeks.org/how-to-deploy-dashboard-ui-on-a-kubernetes-cluster-locally/)
 
 
 Here's the summarized format:
@@ -144,3 +145,9 @@ Docker Desktop is easily the most popular containerization software for develope
 Ingress is a Kubernetes API object that is used to expose HTTP and HTTPS routes from outside the cluster to services inside the cluster. It provides a single entry point into a cluster hence making it simpler to manage applications and troubleshoot routing issues. In this article, we will discuss what Kubernetes Ingress is. what is an Ingress controller and How does it resolve the routing problem issue? we will guide you on step-by-step implementation of Kubernetes Ingress...
 
 [**Read more**](https://www.geeksforgeeks.org/what-is-kubernetes-ingress/)
+
+## How To Share Storage Between Kubernetes Pods ?
+
+Kubernetes or K8s is an open-sourced container orchestration technology that is used for automating the manual processes of deploying, managing and scaling applications by the help of containers. Sharing storage between Pods can be achieved by the help of Kubernetes Volumes, a Volume in Kubernetes is a data storing feature with the help of which we can store data that is persistent and can be accessed by multiple Kubernetes Pod. In this article we will discuss how to How to share storage between Kubernetes Pods using Volumes...
+
+[**Read more**](https://www.geeksforgeeks.org/how-to-share-storage-between-kubernetes-pods/)
