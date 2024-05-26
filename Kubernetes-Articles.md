@@ -32,6 +32,8 @@
 - [**How To Share Storage Between Kubernetes Pods?**](https://www.geeksforgeeks.org/how-to-share-storage-between-kubernetes-pods/)
 - [**How To Create Helm Chart From Scratch?**](https://www.geeksforgeeks.org/how-to-create-helm-chart-from-scratch/)
 
+And many more articles. [**check them out**](https://auth.geeksforgeeks.org/user/1shubham7/articles)...
+
 ### Here's the summarized format:
 
 ## Deploying A Node.js Application In kubernetes
