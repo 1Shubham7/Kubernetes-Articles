@@ -112,6 +112,12 @@ provide those isolated environments that we all use. then towards the end of thi
 
 [**Read more**](https://www.geeksforgeeks.org/understanding-the-docker-desktop-architecture-and-linux-building-block-for-containers/)
 
+## How To Update ConfigMap Or Secret Without Deleting One?
+
+Kubernetes or K8s is an open-sourced container orchestration technology that is used for automating the manual processes of deploying, managing and scaling applications by the help of containers. Kubernetes was originally developed by engineers at Google and In 2015, it was donated to CNCF (Cloud Native Computing Foundation). In this tutorial we will see how we can update a ConfigMap or a Secret in a Kubernetes Cluster, without deleting the ConfigMap or the Secret...
+
+[**Read more**](https://www.geeksforgeeks.org/how-to-update-configmap-or-secret-without-deleting-one/)
+
 ## Kubernetes NameSpace: Complete Guide.
 
 In Kubernetes, Namespaces are used to organize resources. You can have multiple Namespaces in a Cluster And these Namespaces are kind of virtual Clusters of their own. The official definition of Namespace says “In Kubernetes, namespaces provide a mechanism for isolating groups of resources within a single cluster”. Within a Kubernetes Namespace, resources must have unique names, but across different Namespaces, you can have resources with the same name...
