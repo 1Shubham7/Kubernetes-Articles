@@ -105,6 +105,12 @@ In this article, we will learn about Docker Swarm, its features, and use cases a
 
 [**Read more**](https://www.geeksforgeeks.org/docker-swarm-building-a-highly-scalable-cluster/)
 
+## Deploying Application Using Kubernetes – Full Project Tutorial
+
+Kubernetes or K8s is an open-sourced container orchestration technology that is used for automating the manual processes of deploying, managing, and scaling applications withy the help of containers. Kubernetes was originally developed by engineers at Google and In 2015, it was donated to CNCF (Cloud Native Computing Foundation). In this article, we will learn how to deploy an application (a MongoDB application) using Kubernetes...
+
+[**Read more**](https://www.geeksforgeeks.org/deploying-application-using-kubernetes-full-project-tutorial/)
+
 ## Understanding the Docker Desktop Architecture and Linux Building Block for Containers
 
 In this article we are going to do a technology deep dive and start understanding the foundational Linux kernel features that software like Docker is using to make the containers work and
