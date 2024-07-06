@@ -31,6 +31,7 @@
 - [**What Is Kubernetes Ingress?**](https://www.geeksforgeeks.org/what-is-kubernetes-ingress/)
 - [**How To Share Storage Between Kubernetes Pods?**](https://www.geeksforgeeks.org/how-to-share-storage-between-kubernetes-pods/)
 - [**How To Create Helm Chart From Scratch?**](https://www.geeksforgeeks.org/how-to-create-helm-chart-from-scratch/)
+- [**The Lifecycle of a Pod in Kubernetes: From Creation to Termination**](https://www.geeksforgeeks.org/kubernetes-pods-termination-lifecycle/)
 
 And many more articles. [**check them out**](https://auth.geeksforgeeks.org/user/1shubham7/articles)...
 
@@ -190,3 +191,9 @@ Kubernetes or K8s is an open-sourced container orchestration technology that is 
 Helm is a popular Kubernetes native tool for automating the creation, packaging, configuration, and deployment of Kubernetes applications. It is used to combine all the configuration files that are needed for a cluster into a single reusable chart. A Helm chart is like a bundle of YAML files packaged together and made available in a registry so that other people who also use the same kind of deployment can use them in their cluster. In this article, we will see how to create a Helm chart from scratch for a complete React application...
 
 [**Read more**](https://www.geeksforgeeks.org/how-to-create-helm-chart-from-scratch/)
+
+## The Lifecycle of a Pod in Kubernetes: From Creation to Termination
+
+The Pod lifetime is the entire timeline of existence of a Pod from the point when the Pod is created to the point when it is terminated. The pod lifetime is not a liner journey where the Pod is created and then terminated when its use is over, in Pod lifetime the Pod may be created and then run for a while, it may fail, it may be recreated and so on. There are various factors that influence the Pod lifetime, some of these factors are the restart policy of the Pod, the health of Pod’s containers and the overall state of the Kubernetes cluster where Pod is running...
+
+[**Read more**](https://www.geeksforgeeks.org/kubernetes-pods-termination-lifecycle/)
