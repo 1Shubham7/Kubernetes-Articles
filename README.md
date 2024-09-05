@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2 align="center">Kubernetes Articles</h2>
+  <h1 align="center">Kubernetes Articles</h1>
 
   <p align="center">
     Here are the articles on K8s, Docker and DevOps I have written for <a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a>
